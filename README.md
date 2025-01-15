@@ -64,9 +64,3 @@ _"Data is the new oil, and I’m here to refine it."_
 
 ---
 
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=RicardoSalazarV&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=RicardoSalazarV&icon=0&color=0)](https://visitcount.itsvg.in)  
